@@ -1,2 +1,2 @@
-# Search-Engine
-A search engine implementing TF-IDF  in python
+# Crawler
+A web crawler in python from scratch
